@@ -28,7 +28,7 @@ def login(user, passwd, urlLogin='https://uis.nwpu.edu.cn/cas/login'):
         "Referer": "https://uis.nwpu.edu.cn/cas/login?service=https%3A%2F%2Fecampus.nwpu.edu.cn%2F%3Fpath%3Dhttps%3A%2F%2Fecampus.nwpu.edu.cn%2Fmain.html%23%2FIndex",
         # "Accept-Encoding": "gzip, deflate, br",
         # "Accept-Language": "zh-CN,zh;q=0.9,en-GB;q=0.8,en;q=0.7",
-        "X-Forwarded-For": "10.68.21.220",
+        "X-Forwarded-For": "10.60.51.70",
         # "X-Forwarded-For": "10.68.21.229",
         # "X-Originating-IP": "113.140.3.73",
         # "X-Remote-IP":"10.68.21.220",
